@@ -1,18 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Sarala:wght@400;700&family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+.sarala-regular {
+  font-family: "Sarala", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sarala-bold {
+  font-family: "Sarala", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
 .App {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -28,11 +29,90 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
 }
+.inline-icon{
+  vertical-align: bottom;
+   font-size: 18px !important;
+}
+.movie-card {
+  box-sizing: border-box;
+  margin: 20px;
+  position: relative;
+  border: 1px solid rgb(163, 94, 94);
+  border-radius: 15px;
+  width: 230px;
+  transition: transform 0.5s ease, box-shadow 0.5s ease; /* Smooth scaling and shadow transition */
+  overflow: hidden; /* Hide overflow content */
+  cursor: pointer;
+  z-index: 1; /* Ensure card stays on top of other content */
+}
+.movie-card .movie-title {
+  font-size: 1.0rem;
+  font-weight: bold;
+  
+}
+.card-popout-left {
+  transform: scale(1.1) translateX(10px); /* Move right */
+}
+
+.card-popout-right {
+  transform: scale(1.1) translateX(-10px); /* Move left */
+}
+
+.card-popout-center {
+  transform: scale(1.1); /* Move up */
+}
+
+.movie-card:hover .movie-card-overlay {
+  opacity: 1; /* Show overlay on hover */
+}
+.movie-card-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+  color: #fff;
+  opacity: 0; /* Hidden by default */
+  transition: opacity 0.5s ease; /* Smooth transition for overlay */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 15px; /* Match the card border radius */
+}
+.movie-card:hover {
+  transform: scale(1.1) translateY(-10px); /* Adjust translateY to prevent clipping */
+  z-index: 10; /* Ensure it comes above other cards on hover */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5); /* Stronger shadow effect on hover */
+}
+.movie-card .movie-overview {
+  font-size: 0.575rem;
+  height: 3.5rem; /* Adjust to fit within the card height */
+  overflow: visible; /* Hide overflow content */
+  text-overflow: ellipsis;
+  
+}
+
+
+.carousel-container {
+  width: 100%;
+  overflow: visible; /* Ensure the container allows overflow */
+  padding-right: 25px;
+  padding-left: 25px;
+  
+}
+
+.slick-slide {
+  padding: 0 05px;
+  overflow: visible; /* Ensure slides don't cut off the cards */
+}
+
