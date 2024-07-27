@@ -24,7 +24,7 @@ export default function Featured(){
               <div className="dec">
             <div className="playbtn"><span class="inline-icon material-symbols-outlined px-2">play_arrow</span> Play
                 </div>
-                <div className="playbtn1"><span class="material-symbols-outlined px-2">read_more</span>More Info</div>
+                <div className="playbtn1"><span class="inline-icon material-symbols-outlined px-2">read_more</span>More Info</div>
                 </div>
             </div>
         </div>

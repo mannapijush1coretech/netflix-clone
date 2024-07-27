@@ -6,7 +6,7 @@
     color: rgb(0, 0, 0);
     border: none;
     font-size: larger;
-    transition: 0.6 ease;
+    transition:all 0.6 ease;
 cursor: pointer;
 width: 200px;
 height: 50px;
@@ -26,7 +26,7 @@ float: left;
     color: aliceblue;
     border: none;
     font-size: larger;
-    transition: 0.6 ease;
+    transition:all 0.6 ease;
 cursor: pointer;
 width: 200px;
 height: 50px;
