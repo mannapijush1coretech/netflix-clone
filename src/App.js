@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header/>
+      <Header />
       <Featured/>
       <div className='my-6 text-left px-6 text-xl sarala-bold'>Trending</div>
         {trendingMovie && trendingMovie.length>0 ?(<MovieCarousel movies={trendingMovie} />):(<div></div>)}

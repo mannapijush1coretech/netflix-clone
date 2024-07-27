@@ -1,12 +1,12 @@
 
 .playbtn{
-    text-align: center;
-    padding: 10px 20px;
-    background: rgb(251, 251, 251);
-    color: rgb(0, 0, 0);
-    border: none;
-    font-size: larger;
-    transition:all 0.6 ease;
+text-align: center;
+padding: 10px 20px;
+background-color: rgb(251, 251, 251);
+color: rgb(0, 0, 0);
+border: none;
+font-size: larger;
+transition:all 0.6 ease;
 cursor: pointer;
 width: 200px;
 height: 50px;
@@ -16,17 +16,22 @@ float: left;
 }
 .playbtn:hover{
    
-    background: rgb(218, 218, 219);
+    background-color: rgb(218, 218, 219);
 }
-
+.playbtn>span{
+    vertical-align: middle !important;
+}
+.playbtn1>span{
+    vertical-align: middle !important;
+}
 .playbtn1{
-    text-align: center;
-    padding: 10px 20px;
-    background: rgb(50, 52, 68);
-    color: aliceblue;
-    border: none;
-    font-size: larger;
-    transition:all 0.6 ease;
+text-align: center;
+padding: 10px 20px;
+background: rgb(50, 52, 68);
+color: aliceblue;
+border: none;
+font-size: larger;
+transition:all 0.6 ease;
 cursor: pointer;
 width: 200px;
 height: 50px;
@@ -43,3 +48,25 @@ float: left;
     flex-direction: row;
    margin: 20px 20px;
 }
+
+.featured-title{
+    background-image: linear-gradient(transparent,black);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    padding: 1rem;
+}
+.featured {
+    position: relative; /* Necessary for positioning the overlay */
+    width: 100%;
+    height: 80vh; /* Adjust height as needed */
+    overflow: hidden; /* Hide overflow content */
+   
+  }
+  
+  .featured video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensure the video covers the container without stretching */
+  }
