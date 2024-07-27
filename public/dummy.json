@@ -1,4 +1,402 @@
 {
+  "local": [
+    {
+      "adult": false,
+      "backdrop_path": "/en971MEXui9diirXlogOrPKmsEn.jpg",
+      "genre_ids": [
+        28,
+        12,
+        35
+      ],
+      "id": 293660,
+      "original_language": "en",
+      "original_title": "Deadpool",
+      "overview": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+      "popularity": 878.916,
+      "poster_path": "/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
+      "release_date": "2016-02-12",
+      "title": "Deadpool",
+      "video": false,
+      "vote_average": 7.617,
+      "vote_count": 30238
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8fNBsXpgMvqk75SPsZzTmIqSRxY.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 646683,
+      "original_language": "en",
+      "original_title": "The Exorcism",
+      "overview": "A troubled actor begins to unravel while shooting a supernatural horror film, leading his estranged daughter to wonder if he's slipping back into his past addictions or if there's something more sinister at play.",
+      "popularity": 866.523,
+      "poster_path": "/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+      "release_date": "2024-06-21",
+      "title": "The Exorcism",
+      "video": false,
+      "vote_average": 4.663,
+      "vote_count": 81
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xk2y81O2FljJwuyFP1HoJnCO8ed.jpg",
+      "genre_ids": [
+        878,
+        28,
+        12
+      ],
+      "id": 823464,
+      "original_language": "en",
+      "original_title": "Godzilla x Kong: The New Empire",
+      "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+      "popularity": 948.609,
+      "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+      "release_date": "2024-03-29",
+      "title": "Godzilla x Kong: The New Empire",
+      "video": false,
+      "vote_average": 7.189,
+      "vote_count": 3266
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xKJTWGvheOMMlTHgrjN18KaD9Ra.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1174618,
+      "original_language": "en",
+      "original_title": "Alice in Terrorland",
+      "overview": "A recently bereaved teenage girl goes to live with her aunt in a secluded woodland house, unaware that sinister forces lurk within.",
+      "popularity": 884.524,
+      "poster_path": "/5XJGvr8g9jkmN6KUIOQOj2iE6K4.jpg",
+      "release_date": "2023-12-26",
+      "title": "Alice in Terrorland",
+      "video": false,
+      "vote_average": 6.121,
+      "vote_count": 99
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fZv4EldEPurSz0d2uVIoL4Sng8x.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 1016346,
+      "original_language": "bn",
+      "original_title": "MR-9: Do or Die",
+      "overview": "Elite Bangladeshi CIA agent Masud Rana – codename MR-9 – teams up with an American CIA operative to bring down an international criminal organization headed by a ruthless businessman.",
+      "popularity": 789.93,
+      "poster_path": "/yF2g3MDacpZTMywh97qghW6Y0H4.jpg",
+      "release_date": "2023-08-25",
+      "title": "MR-9: Do or Die",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 125
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2RVcJbWFmICRDsVxRI8F5xRmRsK.jpg",
+      "genre_ids": [
+        27,
+        878,
+        53
+      ],
+      "id": 762441,
+      "original_language": "en",
+      "original_title": "A Quiet Place: Day One",
+      "overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+      "popularity": 774.147,
+      "poster_path": "/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg",
+      "release_date": "2024-06-26",
+      "title": "A Quiet Place: Day One",
+      "video": false,
+      "vote_average": 6.815,
+      "vote_count": 493
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        12,
+        18,
+        35
+      ],
+      "id": 150540,
+      "original_language": "en",
+      "original_title": "Inside Out",
+      "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+      "popularity": 907.803,
+      "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+      "release_date": "2015-06-26",
+      "title": "Inside Out",
+      "video": false,
+      "vote_average": 7.915,
+      "vote_count": 21299
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jt86ZDWeo5SuSryi3kzaysf1CWU.jpg",
+      "genre_ids": [
+        16,
+        12,
+        35,
+        28,
+        10751
+      ],
+      "id": 931405,
+      "original_language": "zh",
+      "original_title": "小虎墩大英雄",
+      "overview": "The film follows a young boy who sets out on a mission to try and track down his long lost parents.",
+      "popularity": 767.841,
+      "poster_path": "/73PZdKGTj2PkIeBfRhTG5KJBY5X.jpg",
+      "release_date": "2022-02-01",
+      "title": "Run, Tiger Run!",
+      "video": false,
+      "vote_average": 7.727,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yHEFwHkU2NqRxBrAoGBfuhuqIL1.jpg",
+      "genre_ids": [
+        35,
+        28
+      ],
+      "id": 1143019,
+      "original_language": "fr",
+      "original_title": "Les Infaillibles",
+      "overview": "When a gang of robbers provokes chaos in Paris and humiliates the police, the Minister of the Interior wants new blood at the helm of the investigation: Alia is from Marseille, fiery-tempered and unmanageable, Hugo is Parisian, valedictorian and meticulous. In short, they have every reason to hate each other. A forced alliance, for better or for worse, or maybe blossoming into something else?",
+      "popularity": 712.016,
+      "poster_path": "/7PoIAvL3Io5v0HyBliXfXZruQTi.jpg",
+      "release_date": "2024-06-20",
+      "title": "The Infallibles",
+      "video": false,
+      "vote_average": 5.909,
+      "vote_count": 66
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/en3GU5uGkKaYmSyetHV4csHHiH3.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 929590,
+      "original_language": "en",
+      "original_title": "Civil War",
+      "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+      "popularity": 671.168,
+      "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+      "release_date": "2024-04-19",
+      "title": "Civil War",
+      "video": false,
+      "vote_average": 6.989,
+      "vote_count": 1979
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3P52oz9HPQWxcwHOwxtyrVV1LKi.jpg",
+      "genre_ids": [
+        28,
+        35,
+        12
+      ],
+      "id": 383498,
+      "original_language": "en",
+      "original_title": "Deadpool 2",
+      "overview": "Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy's life.",
+      "popularity": 667.533,
+      "poster_path": "/to0spRl1CMDvyUbOnbb4fTk3VAd.jpg",
+      "release_date": "2018-05-18",
+      "title": "Deadpool 2",
+      "video": false,
+      "vote_average": 7.491,
+      "vote_count": 17314
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vblTCXOWUQGSc837vgbhDRi4HSc.jpg",
+      "genre_ids": [
+        28,
+        80,
+        35,
+        53
+      ],
+      "id": 955555,
+      "original_language": "ko",
+      "original_title": "범죄도시 3",
+      "overview": "Detective Ma Seok-do changes his affiliation from the Geumcheon Police Station to the Metropolitan Investigation Team, in order to eradicate Japanese gangsters who enter Korea to commit heinous crimes.",
+      "popularity": 596.826,
+      "poster_path": "/lW6IHrtaATxDKYVYoQGU5sh0OVm.jpg",
+      "release_date": "2023-05-31",
+      "title": "The Roundup: No Way Out",
+      "video": false,
+      "vote_average": 7.269,
+      "vote_count": 373
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 746036,
+      "original_language": "en",
+      "original_title": "The Fall Guy",
+      "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+      "popularity": 577.772,
+      "poster_path": "/tSz1qsmSJon0rqjHBxXZmrotuse.jpg",
+      "release_date": "2024-05-03",
+      "title": "The Fall Guy",
+      "video": false,
+      "vote_average": 7.217,
+      "vote_count": 1646
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/g5Ha2DhXIuxsUl4gaDnbw3jOAlo.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1115623,
+      "original_language": "en",
+      "original_title": "The Last Kumite",
+      "overview": "When Karate champion Michael Rivers wins the last tournament of his career, shady businessman Ron Hall offers him the opportunity to fight in an illegal Kumite in Bulgaria against the world’s best martial artists.  When Michael declines, Hall has his daughter kidnapped and, in order to rescue her, Rivers is left with no choice but to compete in the deadly tournament. Arriving in Bulgaria, he finds out that he is not the only fighter whose loved one was taken. Rivers enlists the help of trainers Master Loren, and Julie Jackson but will it be enough for him to win the tournament and save his daughter’s life?",
+      "popularity": 541.725,
+      "poster_path": "/zDkaJgsPoSqa2cMe2hW2HAfyWwO.jpg",
+      "release_date": "2024-05-09",
+      "title": "The Last Kumite",
+      "video": false,
+      "vote_average": 7.081,
+      "vote_count": 81
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/716FGefV5R7drdoCOjJtzbPyyY8.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1207898,
+      "original_language": "en",
+      "original_title": "The Jack in the Box: Rises",
+      "overview": "When a creepy Jack-in-the-Box is discovered and opened on the grounds of an exclusive girls' school, six brave students soon enter a fight to the finish against the unleashed demon.",
+      "popularity": 535.007,
+      "poster_path": "/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg",
+      "release_date": "2024-01-18",
+      "title": "The Jack in the Box: Rises",
+      "video": false,
+      "vote_average": 6.944,
+      "vote_count": 64
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wsgni4E1UnBuvFouUUanSdniQi0.jpg",
+      "genre_ids": [
+        28,
+        12,
+        18
+      ],
+      "id": 718821,
+      "original_language": "en",
+      "original_title": "Twisters",
+      "overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+      "popularity": 533.54,
+      "poster_path": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+      "release_date": "2024-07-18",
+      "title": "Twisters",
+      "video": false,
+      "vote_average": 7.285,
+      "vote_count": 231
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1XDDXPXGiI8id7MrUxK36ke7gkX.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14
+      ],
+      "id": 1011985,
+      "original_language": "en",
+      "original_title": "Kung Fu Panda 4",
+      "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+      "popularity": 546.975,
+      "poster_path": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+      "release_date": "2024-03-02",
+      "title": "Kung Fu Panda 4",
+      "video": false,
+      "vote_average": 7.137,
+      "vote_count": 2317
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kZbTOcTrEGyroQMWQSGIRlNSkwP.jpg",
+      "genre_ids": [
+        878,
+        28,
+        14,
+        12
+      ],
+      "id": 626412,
+      "original_language": "ko",
+      "original_title": "외계+인 2부",
+      "overview": "Ean has a critical mission to return to the future to save everyone. However, she becomes trapped in the distant past while trying to prevent the escape of alien prisoners who are locked up in the bodies of humans. Meanwhile, Muruk, who helps Ean escape various predicaments, is unnerved when he begins sensing the presence of a strange being in his body. Traveling through the centuries, they are trying to prevent the explosion of the haava.",
+      "popularity": 491.685,
+      "poster_path": "/4RClncz0GTKPZzSAcAalHCw0h3g.jpg",
+      "release_date": "2024-01-10",
+      "title": "Alienoid: Return to the Future",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 469
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9Y9wTgrMk4G1YNPDDekNk7dybwx.jpg",
+      "genre_ids": [
+        28,
+        12,
+        10752
+      ],
+      "id": 1152624,
+      "original_language": "en",
+      "original_title": "3 Days in Malay",
+      "overview": "Marines stationed at an airfield in Malay during WWII get wind of a coming raid by the Japanese. Unable to get reinforcements approved, they engage in a harrowing 3-day battle against enemy forces.",
+      "popularity": 664.915,
+      "poster_path": "/hqnfqeCILvgKGWKOut5lVdxdeJh.jpg",
+      "release_date": "2023-08-11",
+      "title": "3 Days in Malay",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/14CUYVEfnen8V3tMrfd71UnwbB4.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 821499,
+      "original_language": "en",
+      "original_title": "The Inheritance",
+      "overview": "Billionaire Charles Abernathy, on the eve of his 75th birthday, invites his four estranged children back home out of fear that tonight someone – or something – is coming to kill him. To ensure his family will help protect him from whatever’s coming, Abernathy puts each of their inheritances on the line – they’ll get nothing if he’s found dead by dawn.",
+      "popularity": 481.27,
+      "poster_path": "/3qQok7BPKVcM0DA9Zu5OeMzzmk6.jpg",
+      "release_date": "2024-07-12",
+      "title": "The Inheritance",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 13
+    }
+  ],
   "trending":[
       {
         "adult": false,

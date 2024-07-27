@@ -80,7 +80,12 @@ function MovieCard({ movieData,index,currentSlide }) {
            
             <div className="movie-card-overlay p-1 backdrop-blur rounded-b-xl bg-black/50 flex-col text-left">
             <div className="movie-title sarala-bold">{movieData.title}</div>
-            <div className='align-middle text-xs'><span className='inline-icon material-symbols-outlined'>grade </span>{movieData.vote_average.toFixed(1)}  <span className='inline-icon material-symbols-outlined'>full_hd</span><div className='text-gray-300'>{movieData.release_date.substring(0,4)}</div> </div>
+            <div className='align-middle text-xs'>
+              <span className='inline-icon material-symbols-outlined'>grade </span>
+              {movieData.vote_average.toFixed(1)} 
+               <span className='inline-icon material-symbols-outlined'>4k</span>
+               <div className='text-gray-300'>{movieData.release_date.substring(0,4)}</div>
+             </div>
           <p className="movie-overview sarala-regular">{movieData.overview.length > 150 ? `${movieData.overview.substring(0, 150)}...` : movieData.overview}</p>
         
       </div>
